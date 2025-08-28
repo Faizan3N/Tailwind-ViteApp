@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="text-[50px] bg-amber-300 text-center">Hello World</div>
+      <div className="text-[50px] bg-amber-300 text-center">Resolved All installtion errors of tailwindcss in vite-app </div>
     </>
   )
 }
